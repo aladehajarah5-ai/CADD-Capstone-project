@@ -1,5 +1,4 @@
-# CADD-Capstone-project
-Capstone project completed during The insilico Lab CADD training
+
 # CAPSTONE PROJECT REPORT
 
 ## Computer-Aided Drug Design (CADD) Workflow Using SARS-CoV-2 Main Protease (7SFB)
